@@ -22,7 +22,7 @@ main {
 article {
     display: flex;
     gap: 16px;
-    margin-bottom: 24px;
+    margin-bottom: 30px;
 }
 
 main img {
